@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/fahrulfahmi/FrontendAnalitic
+[submodule "backend"]
+	path = backend
+	url = https://github.com/fahrulfahmi/backendAnalitic
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/fahrulfahmi/ML-Analitic
